@@ -1,0 +1,7 @@
+/.vscode
+/csv_files
+/data_analysis_python
+/postgre.session.sql
+/postgres.session.sql
+/sql_load
+/test.sql
